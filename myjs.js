@@ -1,3 +1,3 @@
 
 
-alert(Hello,tuguru!);
+alert('Hello,tuguru!');
